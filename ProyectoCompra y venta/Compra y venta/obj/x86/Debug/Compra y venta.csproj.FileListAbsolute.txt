@@ -1,0 +1,59 @@
+H:\Compra y venta\Compra y venta\bin\Debug\Compra y venta.exe
+H:\Compra y venta\Compra y venta\bin\Debug\Compra y venta.pdb
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Form1.resources
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Properties.Resources.resources
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Registro_de_un_nuevo_personal.resources
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra y venta.csproj.GenerateResource.Cache
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra y venta.exe
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra y venta.pdb
+H:\Compra y venta\Compra y venta\obj\x86\Debug\Compra y venta.csprojResolveAssemblyReference.cache
+H:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe
+H:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.pdb
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Form1.resources
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormInicioSesion.resources
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormPresentacion.resources
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Properties.Resources.resources
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Registro_de_un_nuevo_personal.resources
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.exe
+H:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.pdb
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.exe
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.pdb
+E:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe
+E:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.pdb
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Form1.resources
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormInicioSesion.resources
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormPresentacion.resources
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Properties.Resources.resources
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Registro_de_un_nuevo_personal.resources
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe.config
+F:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe.config
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Form1.resources
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormInicioSesion.resources
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormPresentacion.resources
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Properties.Resources.resources
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Registro_de_un_nuevo_personal.resources
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe
+F:\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.pdb
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.exe
+F:\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.pdb
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe.config
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.exe
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.pdb
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.exe
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\bin\Debug\Compra y venta.pdb
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.csprojResolveAssemblyReference.cache
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Form1.resources
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormInicioSesion.resources
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.FormPresentacion.resources
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Properties.Resources.resources
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra_y_venta.Registro_de_un_nuevo_personal.resources
+D:\DiscoDuro1tb\ProyectoCompra y venta\Compra y venta\obj\x86\Debug\Compra y venta.csproj.GenerateResource.Cache
